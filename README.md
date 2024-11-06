@@ -4,8 +4,8 @@ Family Gold is a creative and interactive website designed using HTML, CSS, and 
 
 ## Preview
 
-![Family Gold Website Preview]![Screenshot 2024-11-06 130629](https://github.com/user-attachments/assets/7b45c6ea-c48b-482c-8214-4c4651240e61)
-()![Screenshot 2024-11-06 130646](https://github.com/user-attachments/assets/e88df281-a5f0-475e-8c43-2b5bb381cd9c)
+![Screenshot 2024-11-06 130629](https://github.com/user-attachments/assets/7b45c6ea-c48b-482c-8214-4c4651240e61)
+![Screenshot 2024-11-06 130646](https://github.com/user-attachments/assets/e88df281-a5f0-475e-8c43-2b5bb381cd9c)
 
 ![Screenshot 2024-11-06 130659](https://github.com/user-attachments/assets/8ee44fa5-a004-4f45-8acf-2bb8f59d0182)
 
